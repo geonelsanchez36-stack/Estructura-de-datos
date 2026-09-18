@@ -38,7 +38,7 @@ Contiene toda la lógica de la creación de un arrayList
         Método para insertar un elemento sin verificar previamente que la cabeza no sea null (es decir, que la lista no esté vacía).
 
     Clase ListInterface
-  Esta clase contiene todos los métodos que debe de implementar cualquier lista
+     Esta clase contiene todos los métodos que debe de implementar cualquier lista
 
     Clase Nodo  
     
