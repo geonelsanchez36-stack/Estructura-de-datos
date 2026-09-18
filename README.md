@@ -4,7 +4,7 @@ Este repositorio contiene ejemplos prácticos de la implementación de ArrayList
  -Contenido del proyecto 
  
     Clase ArrayList 
-Contiene toda la lógica de la creación de un arrayList
+      Contiene toda la lógica de la creación de un arrayList
   
      Clase MainArrayList
     Implementación personalizada de un ArrayList.
